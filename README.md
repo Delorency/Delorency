@@ -1,4 +1,4 @@
-### 🐍 Змейка контрибуций
+### 🛠 Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🚀 Featured Projects
 
 **[toxiproxy-testing](https://github.com/Delorency/toxiproxy-testing)** — стенд для симуляции сетевых сбоев и замера эффективности паттернов отказоустойчивости (Retry, Circuit Breaker, Bulkhead, Rate Limiting).
 
