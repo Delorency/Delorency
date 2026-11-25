@@ -1,7 +1,3 @@
-![Open to work](https://img.shields.io/badge/Открыт_к_предложениям-2ea44f?style=for-the-badge)
-
----
-
 ### 🛠 Технологии
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
