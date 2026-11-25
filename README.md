@@ -35,7 +35,7 @@
 ### 🐍 Змейка контрибуций
 
 <!-- После настройки workflow файл будет доступен по этой ссылке -->
-![Snake animation](https://raw.githubusercontent.com/Delorency/Delorency/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Delorency/Delorency/output/github-snake-dark.svg)
 
 ---
 
