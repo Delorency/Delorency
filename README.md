@@ -1,4 +1,4 @@
-### 🛠 Технологии
+### 🐍 Змейка контрибуций
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,13 +18,13 @@
 
 ---
 
-### 🧩 LeetCode Статистика
+### 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Delorency?theme=dark&font=Nunito)
 
 ---
 
-### 🚀 Избранные проекты
+### 🧩 LeetCode Stats
 
 **[toxiproxy-testing](https://github.com/Delorency/toxiproxy-testing)** — стенд для симуляции сетевых сбоев и замера эффективности паттернов отказоустойчивости (Retry, Circuit Breaker, Bulkhead, Rate Limiting).
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🐍 Змейка контрибуций
+### 🐍 Contribution Snake
 
 <!-- После настройки workflow файл будет доступен по этой ссылке -->
 ![Snake animation](https://raw.githubusercontent.com/Delorency/Delorency/output/github-snake-dark.svg)
