@@ -18,7 +18,7 @@ jobs:
       - name: Generate trophy SVG
         uses: soulteary/github-profile-trophy-action@v1
         with:
-          token: ${{ secrets.PROFILE_STATS_TOKEN }} # Требуется PAT
+          token: ${{ secrets.TROPHY_TOKEN }} # Требуется PAT
           path: images/trophy.svg
           options: "username=${{ github.repository_owner }}&theme=tokyonight&max-rows=1"
 
