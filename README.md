@@ -42,12 +42,3 @@
 ### 🧩 LeetCode Статистика
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Delorency?theme=dark&font=Nunito)
-
----
-
-### 📊 GitHub Статистика
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Delorency&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Delorency&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
