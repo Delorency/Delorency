@@ -33,6 +33,36 @@
 
 ---
 
+### 🚀 Избранные проекты
+
+**[toxiproxy-testing](https://github.com/Delorency/toxiproxy-testing)** — стенд для симуляции сетевых сбоев и замера эффективности паттернов отказоустойчивости (Retry, Circuit Breaker, Bulkhead, Rate Limiting).
+
+**[config-service](https://github.com/Delorency/config-service)** — отказоустойчивый gRPC-сервис версионирования и валидации конфигураций с push-уведомлениями через долгоживущие стримы.
+
+**[gojwtauthservice](https://github.com/Delorency/gojwtauthservice)** — сервис JWT-аутентификации/авторизации с проверкой версии токена и временным хранилищем в Redis.
+
+---
+
+### 🐍 Змейка контрибуций
+
+<!-- После настройки workflow файл будет доступен по этой ссылке -->
+![Snake animation](https://raw.githubusercontent.com/Delorency/Delorency/output/github-snake.svg)
+
+---
+
+### 🏆 Трофеи GitHub
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Delorency&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+### 🧊 3D-контрибуции
+
+<!-- После настройки workflow 3D-график будет доступен по этой ссылке -->
+![3D Contributions](https://raw.githubusercontent.com/Delorency/Delorency/main/profile-3d-contrib/profile-green-animate.svg)
+
+---
+
 ### 🧩 LeetCode Статистика
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Delorency?theme=dark&font=Nunito)
