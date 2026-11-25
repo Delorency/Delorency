@@ -22,6 +22,12 @@
 
 ---
 
+### 🧩 LeetCode Статистика
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Delorency?theme=dark&font=Nunito)
+
+---
+
 ### 🚀 Избранные проекты
 
 **[toxiproxy-testing](https://github.com/Delorency/toxiproxy-testing)** — стенд для симуляции сетевых сбоев и замера эффективности паттернов отказоустойчивости (Retry, Circuit Breaker, Bulkhead, Rate Limiting).
@@ -36,9 +42,3 @@
 
 <!-- После настройки workflow файл будет доступен по этой ссылке -->
 ![Snake animation](https://raw.githubusercontent.com/Delorency/Delorency/output/github-snake-dark.svg)
-
----
-
-### 🧩 LeetCode Статистика
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Delorency?theme=dark&font=Nunito)
